@@ -1,1 +1,2 @@
 # coolproject
+echo "hello world"
