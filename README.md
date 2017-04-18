@@ -1,2 +1,0 @@
-# coolproject
-echo "hello world"
